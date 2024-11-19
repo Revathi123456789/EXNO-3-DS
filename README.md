@@ -191,7 +191,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/1119ad81-8494-4c7d-ab56-74e1ab2c5b33)
 
 
-# RESULT:
+## RESULT:
 Thus,using data science we performed Feature Encoding and Transformation process.
 
        
